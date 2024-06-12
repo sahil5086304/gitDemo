@@ -1,3 +1,3 @@
 # gitDemo
 practice of git
-Practise
+Practise.
